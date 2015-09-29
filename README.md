@@ -24,7 +24,7 @@ The corresponding data in CloudWatch would look like this:
 
 Amazon Kinesis Aggregators is built using Apache Maven. To build, simply run Maven from the amazon-kinesis-aggregators directory. The target directory contains the following build artifacts:
 
-* **amazon-kinesis-aggregators-.9.2.6.4.jar** - Includes no compiled dependencies
+* **amazon-kinesis-aggregators-.9.2.6.9.jar** - Includes no compiled dependencies
 * **AmazonKinesisAggregators.jar-complete.jar** - Includes all required dependencies
 * **AmazonKinesisAggregator.war** - The web application archive file
 
